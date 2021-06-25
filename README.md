@@ -1,6 +1,7 @@
 <h1 align="center">Steve Sultan --- Full Stack Developer</h1>
 <h3 align="center">Toronto, Canada</h3>
 <h3 align="center">https://stevesultan.com/</h3>
+<h3 align="center">https://www.linkedin.com/in/stevesultan/</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevesultan&label=Profile%20views&color=0e75b6&style=flat" alt="stevesultan" /> </p>
 
