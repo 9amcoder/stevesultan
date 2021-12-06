@@ -1,4 +1,4 @@
-<h1 align="center">Steve Sultan --- Full Stack Developer</h1>
+<h1 align="center">Steve Sultan --- Software Developer</h1>
 <h3 align="center">Toronto, Canada</h3>
 <h3 align="center">https://stevesultan.com/</h3>
 <h3 align="center">https://www.linkedin.com/in/stevesultan/</h3>
@@ -8,7 +8,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/stevesultan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stevesultan/" height="30" width="40" /></a>
-<a href="/https://stevesultan.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://stevesultan.com" height="30" width="40" /></a>
+
 </p>
 <br>
 <br>
