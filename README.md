@@ -1,7 +1,10 @@
 <h1 align="center">Steve Sultan --- Software Developer</h1>
 <h3 align="center">Toronto, Canada</h3>
 <h3 align="center">
-  <a href="https://www.stevesultan.com/" target="blank" rel="noopener noreferrer">Offitial Site</a>
+  <a href="https://www.stevesultan.com/" target="blank" rel="noopener noreferrer">Profile Web Page</a>
+</h3>
+<h3 align="center">
+  <a href="https://blog.stevesultan.com/" target="blank" rel="noopener noreferrer">Personal Blog</a>
 </h3>
 
 
